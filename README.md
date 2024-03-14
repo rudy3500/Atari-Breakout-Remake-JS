@@ -1,6 +1,8 @@
 # Atari-Breakout-Remake-JS
 Modernized Atari Breakout Remake with Java Script
-
+<br />
+<br />
+<br />
 ## Play Instructions
 Use the left and right arrow keys to move the paddle. <br />
 <br />
